@@ -1,0 +1,20 @@
+/* 
+  Localizable.strings
+  WeatherApp
+
+  Created by Reya Shoshi on 12/4/25.
+  
+*/
+"weather_search_title" = "Weather";
+"search_city_title" = "Search by City";
+"search_city_placeholder" = "Enter US city";
+"location_section_title" = "Location";
+"use_current_location" = "Use Current Location";
+"using_location_label" = "Using your current location.";
+"error_empty_city" = "Please enter a city name.";
+"error_server" = "Server error (%d). Please try again.";
+"error_invalid_city" = "Could not find that city. Please try another.";
+"error_location_unavailable" = "Location is unavailable. Check your settings.";
+"feels_like_format" = "Feels like %@";
+"humidity_format" = "Humidity: %d%%";
+"wind_format" = "Wind: %.1f m/s";
